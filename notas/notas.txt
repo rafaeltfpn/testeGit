@@ -1,0 +1,6 @@
+dir - mostrar os repositorio no caminho q eu to
+cd - escolhe diretorio .. volta
+cls - limpa o terminal
+mkdir - cria repositorio
+del - apaga arquivor
+rmdir - apaga repositorio

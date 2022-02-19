@@ -1,0 +1,5 @@
+GIT
+
+SHA1 - Security Hash Algorithm 
+Encriptação gera conjunto de identificação de 40 digitos
+ssh-keygen -t ed25519 -C rafispfc1@gmail.com
